@@ -1,4 +1,3 @@
-```markdown
 # **Exercício: Implementando o Tipo Abstrato `Lista Encadeada`**
 
 ## **Objetivo**  
@@ -61,4 +60,3 @@ Lista: 20 30
 Tamanho da lista: 2
 Lista vazia.
 ```
-
