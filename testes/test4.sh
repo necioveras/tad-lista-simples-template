@@ -10,7 +10,7 @@ Elemento 30 encontrado na posição 2.
 Elemento 40 encontrado na posição 3.
 Elemento 50 encontrado na posição 4.
 Tamanho da lista: 4
-Lista: 20 30 40 50"
+Lista: 20 30 40 50."
 
 
 if [ $? -eq 0 ] ; then
