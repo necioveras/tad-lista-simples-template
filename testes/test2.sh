@@ -35,7 +35,7 @@ Lista: 99 66 55 88
 Lista: 99 66 88
 Lista: 99 88
 Lista: 88
-Elemento 66 encontrado na posição 1.
+Elemento 88 encontrado na posição 1.
 Tamanho da lista: 1
 Lista vazia."
 
