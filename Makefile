@@ -22,7 +22,7 @@ test2: saida.out
 test3: saida.out
 	bash ./testes/test3.sh
 
-test4: saida.out clean
+test4: saida.out
 	bash ./testes/test4.sh
 
 test5: saida.out clean
